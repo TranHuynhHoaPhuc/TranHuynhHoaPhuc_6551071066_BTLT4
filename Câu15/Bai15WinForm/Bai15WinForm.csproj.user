@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Ex1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ex4Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

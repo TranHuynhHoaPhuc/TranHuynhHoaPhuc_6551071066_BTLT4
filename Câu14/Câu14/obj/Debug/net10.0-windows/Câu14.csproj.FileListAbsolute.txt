@@ -1,0 +1,16 @@
+E:\Winform1\Câu14\Câu14\bin\Debug\net10.0-windows\Câu14.exe
+E:\Winform1\Câu14\Câu14\bin\Debug\net10.0-windows\Câu14.deps.json
+E:\Winform1\Câu14\Câu14\bin\Debug\net10.0-windows\Câu14.runtimeconfig.json
+E:\Winform1\Câu14\Câu14\bin\Debug\net10.0-windows\Câu14.dll
+E:\Winform1\Câu14\Câu14\bin\Debug\net10.0-windows\Câu14.pdb
+E:\Winform1\Câu14\Câu14\obj\Debug\net10.0-windows\Câu14.frmCapNhat2ListBox.resources
+E:\Winform1\Câu14\Câu14\obj\Debug\net10.0-windows\Câu14.csproj.GenerateResource.cache
+E:\Winform1\Câu14\Câu14\obj\Debug\net10.0-windows\Câu14.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform1\Câu14\Câu14\obj\Debug\net10.0-windows\Câu14.AssemblyInfoInputs.cache
+E:\Winform1\Câu14\Câu14\obj\Debug\net10.0-windows\Câu14.AssemblyInfo.cs
+E:\Winform1\Câu14\Câu14\obj\Debug\net10.0-windows\Câu14.csproj.CoreCompileInputs.cache
+E:\Winform1\Câu14\Câu14\obj\Debug\net10.0-windows\Câu14.dll
+E:\Winform1\Câu14\Câu14\obj\Debug\net10.0-windows\refint\Câu14.dll
+E:\Winform1\Câu14\Câu14\obj\Debug\net10.0-windows\Câu14.pdb
+E:\Winform1\Câu14\Câu14\obj\Debug\net10.0-windows\Câu14.genruntimeconfig.cache
+E:\Winform1\Câu14\Câu14\obj\Debug\net10.0-windows\ref\Câu14.dll

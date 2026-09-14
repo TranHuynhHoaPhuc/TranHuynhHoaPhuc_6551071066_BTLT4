@@ -1,0 +1,34 @@
+D:\Bai15WinForm (1)\Bai15WinForm\bin\Debug\net8.0-windows\Bai15WinForm.exe
+D:\Bai15WinForm (1)\Bai15WinForm\bin\Debug\net8.0-windows\Bai15WinForm.deps.json
+D:\Bai15WinForm (1)\Bai15WinForm\bin\Debug\net8.0-windows\Bai15WinForm.runtimeconfig.json
+D:\Bai15WinForm (1)\Bai15WinForm\bin\Debug\net8.0-windows\Bai15WinForm.dll
+D:\Bai15WinForm (1)\Bai15WinForm\bin\Debug\net8.0-windows\Bai15WinForm.pdb
+D:\Bai15WinForm (1)\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.Ex1Form.resources
+D:\Bai15WinForm (1)\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.csproj.GenerateResource.cache
+D:\Bai15WinForm (1)\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai15WinForm (1)\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.AssemblyInfoInputs.cache
+D:\Bai15WinForm (1)\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.AssemblyInfo.cs
+D:\Bai15WinForm (1)\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.csproj.CoreCompileInputs.cache
+D:\Bai15WinForm (1)\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.dll
+D:\Bai15WinForm (1)\Bai15WinForm\obj\Debug\net8.0-windows\refint\Bai15WinForm.dll
+D:\Bai15WinForm (1)\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.pdb
+D:\Bai15WinForm (1)\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.genruntimeconfig.cache
+D:\Bai15WinForm (1)\Bai15WinForm\obj\Debug\net8.0-windows\ref\Bai15WinForm.dll
+E:\Winform1\Câu15\Bai15WinForm\bin\Debug\net8.0-windows\Bai15WinForm.exe
+E:\Winform1\Câu15\Bai15WinForm\bin\Debug\net8.0-windows\Bai15WinForm.deps.json
+E:\Winform1\Câu15\Bai15WinForm\bin\Debug\net8.0-windows\Bai15WinForm.runtimeconfig.json
+E:\Winform1\Câu15\Bai15WinForm\bin\Debug\net8.0-windows\Bai15WinForm.dll
+E:\Winform1\Câu15\Bai15WinForm\bin\Debug\net8.0-windows\Bai15WinForm.pdb
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.Ex1Form.resources
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.Ex2Form.resources
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.Ex3Form.resources
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.csproj.GenerateResource.cache
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.AssemblyInfoInputs.cache
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.AssemblyInfo.cs
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.csproj.CoreCompileInputs.cache
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.dll
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\refint\Bai15WinForm.dll
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.pdb
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\Bai15WinForm.genruntimeconfig.cache
+E:\Winform1\Câu15\Bai15WinForm\obj\Debug\net8.0-windows\ref\Bai15WinForm.dll
