@@ -1,0 +1,17 @@
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.exe
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.deps.json
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.runtimeconfig.json
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.dll
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.pdb
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.FormVeTay.resources
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\Bai2_Chuong5.csproj.GenerateResource.cache
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\Bai2_Chuong5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\Bai2_Chuong5.AssemblyInfoInputs.cache
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\Bai2_Chuong5.AssemblyInfo.cs
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\Bai2_Chuong5.csproj.CoreCompileInputs.cache
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.dll
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\refint\BaiTapChuong5.dll
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.pdb
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\Bai2_Chuong5.genruntimeconfig.cache
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\ref\BaiTapChuong5.dll
+C:\Users\tranp\Documents\Bai2_Chuong5\BaiTapChuong5\obj\Debug\net8.0-windows\Bai2_Chu.D012253C.Up2Date
